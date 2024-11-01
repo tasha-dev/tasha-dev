@@ -1,5 +1,5 @@
 # Hi, I'm Mahdi Tasha! 👋
-I'm a 17-year-old mid-level front-end developer based in Tehran, Iran, passionate about creating engaging web experiences. Currently freelancing, I specialize in a variety of technologies and frameworks, including:
+I'm a 18-year-old mid-level front-end developer based in Tehran, Iran, passionate about creating engaging web experiences. Currently freelancing, I specialize in a variety of technologies and frameworks, including:
 - HTML
 - CSS
 - JavaScript
