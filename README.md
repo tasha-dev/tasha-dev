@@ -123,6 +123,7 @@ If you're building a web product and need a frontend developer who cares about *
 **GitHub:** https://github.com/tasha-dev
 **Telegram:** https://t.me/tashaDEV
 **Email:** imwhdiiii@gmail.com
+**Linkedin:** https://linkedin.com/in/tasha-dev/
 
 ---
 
